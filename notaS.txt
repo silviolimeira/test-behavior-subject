@@ -1,0 +1,2 @@
+Imlementanto Lazy Loading no Angular:
+https://medium.com/rocketseat/implementando-lazy-loading-no-angular-d8a6541c0580
